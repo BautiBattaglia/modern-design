@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\
 ModernDesign
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\App.xaml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\App.xaml
 5-1519264793
 
 13-21222412
 198-688555687
 MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\NewsView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
-True
+False
 

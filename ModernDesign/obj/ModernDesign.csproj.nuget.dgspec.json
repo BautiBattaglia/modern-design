@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bautista\\Documents\\Projects C#\\ModernDesign\\ModernDesign\\ModernDesign.csproj": {}
+    "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\ModernDesign.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bautista\\Documents\\Projects C#\\ModernDesign\\ModernDesign\\ModernDesign.csproj": {
+    "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\ModernDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bautista\\Documents\\Projects C#\\ModernDesign\\ModernDesign\\ModernDesign.csproj",
+        "projectUniqueName": "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\ModernDesign.csproj",
         "projectName": "ModernDesign",
-        "projectPath": "C:\\Users\\bautista\\Documents\\Projects C#\\ModernDesign\\ModernDesign\\ModernDesign.csproj",
+        "projectPath": "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\ModernDesign.csproj",
         "packagesPath": "C:\\Users\\bautista\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bautista\\Documents\\Projects C#\\ModernDesign\\ModernDesign\\obj\\",
+        "outputPath": "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bautista\\AppData\\Roaming\\NuGet\\NuGet.Config",
