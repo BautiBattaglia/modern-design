@@ -14,4 +14,22 @@
     <Folder Include="MVVM\Model\" />
   </ItemGroup>
 
+
+
+	<ItemGroup>
+		<None Remove="Images\p1.jpg" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="Images\p1.jpg">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>
+
+
+
 </Project>

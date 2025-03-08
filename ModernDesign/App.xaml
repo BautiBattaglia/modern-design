@@ -22,6 +22,16 @@
                 <view:NewsView/>
             </DataTemplate>
 
+            <!-- DataTemplate for DiscoveredViewModel -->
+            <DataTemplate DataType="{x:Type viewModel:DiscoveredViewModel}">
+                <view:DiscoveredView/>
+            </DataTemplate>
+
+            <!-- DataTemplate for ProductsViewModel -->
+            <DataTemplate DataType="{x:Type viewModel:ProductsViewModel}">
+                <view:ProductsView/>
+            </DataTemplate>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

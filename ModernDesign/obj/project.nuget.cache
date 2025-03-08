@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0t8Fdxut/Oh/qkS4neWNktF2UGIoXuiJ4fzKPnFP2wUxKLCkpmqY9TEMm6yejr+TegnN0OXl6/Fm7PEKMy9jFQ==",
+  "dgSpecHash": "H4TZaaqS1hWpjteVftmlbwy2AgDrvERJKr89LXdmJyn3M5tSfVsA4csnASyhVVj26Ppa0FbpjfmOXV7M0eJ+BA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bautista\\Documents\\Projects\\ModernDesign\\ModernDesign\\ModernDesign.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bautista\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

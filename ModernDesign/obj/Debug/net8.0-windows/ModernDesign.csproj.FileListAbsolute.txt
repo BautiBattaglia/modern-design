@@ -26,3 +26,40 @@ C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\obj\Debug\net8
 C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\HomeView.baml
 C:\Users\bautista\Documents\Projects C#\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\NewsView.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\ModernDesign.exe
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\ModernDesign.deps.json
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\ModernDesign.runtimeconfig.json
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\ModernDesign.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\ModernDesign.pdb
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\Theme\TextBoxTheme.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\NewsView.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign_MarkupCompile.cache
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign_MarkupCompile.lref
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\App.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\HomeView.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\NewsView.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.g.resources
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.AssemblyInfo.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.sourcelink.json
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\refint\ModernDesign.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.pdb
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.genruntimeconfig.cache
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ref\ModernDesign.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\DiscoveredView.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\DiscoveredView.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\ProductsView.g.cs
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\MVVM\View\ProductsView.baml
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\bautista\Documents\Projects\ModernDesign\ModernDesign\obj\Debug\net8.0-windows\ModernDesign.csproj.CopyComplete
